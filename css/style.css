@@ -1,3 +1,26 @@
 body {
-  background-color: margin;
+	background-color: #99cccd;
+	border: 2px solid black;
+	margin-right: 19cm;		
 }
+img {
+	border:2px solid black;
+}
+img:nth-of-type(1) {
+	margin-right: 10px;
+}
+img:nth-of-type(2) {
+	float: right;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 2px;
+}
+
+img:nth-of-type(3) {
+	float: left;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+
+
